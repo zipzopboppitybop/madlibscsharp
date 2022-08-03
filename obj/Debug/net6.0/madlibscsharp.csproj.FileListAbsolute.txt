@@ -1,0 +1,15 @@
+D:\C# programs\madlibs\madlibscsharp\bin\Debug\net6.0\madlibscsharp.exe
+D:\C# programs\madlibs\madlibscsharp\bin\Debug\net6.0\madlibscsharp.deps.json
+D:\C# programs\madlibs\madlibscsharp\bin\Debug\net6.0\madlibscsharp.runtimeconfig.json
+D:\C# programs\madlibs\madlibscsharp\bin\Debug\net6.0\madlibscsharp.dll
+D:\C# programs\madlibs\madlibscsharp\bin\Debug\net6.0\madlibscsharp.pdb
+D:\C# programs\madlibs\madlibscsharp\obj\Debug\net6.0\madlibscsharp.csproj.AssemblyReference.cache
+D:\C# programs\madlibs\madlibscsharp\obj\Debug\net6.0\madlibscsharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# programs\madlibs\madlibscsharp\obj\Debug\net6.0\madlibscsharp.AssemblyInfoInputs.cache
+D:\C# programs\madlibs\madlibscsharp\obj\Debug\net6.0\madlibscsharp.AssemblyInfo.cs
+D:\C# programs\madlibs\madlibscsharp\obj\Debug\net6.0\madlibscsharp.csproj.CoreCompileInputs.cache
+D:\C# programs\madlibs\madlibscsharp\obj\Debug\net6.0\madlibscsharp.dll
+D:\C# programs\madlibs\madlibscsharp\obj\Debug\net6.0\refint\madlibscsharp.dll
+D:\C# programs\madlibs\madlibscsharp\obj\Debug\net6.0\madlibscsharp.pdb
+D:\C# programs\madlibs\madlibscsharp\obj\Debug\net6.0\madlibscsharp.genruntimeconfig.cache
+D:\C# programs\madlibs\madlibscsharp\obj\Debug\net6.0\ref\madlibscsharp.dll
